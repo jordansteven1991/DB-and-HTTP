@@ -1,4 +1,4 @@
 public enum DBType
 {
-    ORADB,MYSQLDB,hjkhjkb
+    ORADB,MYSQLDB
 }
